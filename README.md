@@ -83,7 +83,4 @@ Key insights include:
 
 ---
 
-## 📬 Contact
-
-Feel free to connect on [LinkedIn](www.linkedin.com/in/amit-tiwari-214197311) or reach out for collaboration or feedback!
 
